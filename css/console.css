@@ -351,8 +351,10 @@ div#forkme {
   position: fixed;
   right: -12px;
   top: 0px;
+  background-color: transparent;
 }
 a#forkme {
   background-color: transparent;
+  
 }
 /* DISCARD IT - DIV FORKME */
