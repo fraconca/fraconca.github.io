@@ -344,3 +344,15 @@ legend {
 751%{opacity: 1;}
 100%{opacity: 1;}
 }
+
+
+/* DISCARD IT - DIV FORKME */
+div#forkme {
+  position: fixed;
+  right: -12px;
+  top: 0px;
+}
+a#forkme {
+  background-color: transparent;
+}
+/* DISCARD IT - DIV FORKME */
